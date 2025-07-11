@@ -1,0 +1,12 @@
+{
+    "name": "com.vuzmir.unity-apple-sign-in",
+    "author": {
+        "name": "Yavuz Demir",
+        "email": "yavuz.dmr.scl@gmail.com",
+        "url": "https://github.com/yvz-dmr"
+    },
+    "displayName": "Apple Sign In",
+    "version": "1.0.0",
+    "unity": "2022.1",
+    "dependencies": {}
+}
