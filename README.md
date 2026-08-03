@@ -12,8 +12,8 @@ Add the following **scoped registry** to your project's `Packages/manifest.json`
 ```json
 "scopedRegistries" : [
   {
-    "name": "pckgs.io",
-    "url": "https://upm.pckgs.io",
+    "name": "Vuzmir",
+    "url": "https://unity.pckgs.io/vuzmir",
     "scopes": [
       "com.vuzmir"
     ]
