@@ -6,7 +6,7 @@
         "url": "https://github.com/yvz-dmr"
     },
     "displayName": "Apple Sign In",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2022.1",
     "dependencies": {}
 }
